@@ -27,8 +27,8 @@ const actions = {
     };
 
     commit('SET_SNAPSHOT_TIMELINE', timeline);
-commit('SET_IS_TIMELINE_BUILT', true);
-},
+    commit('SET_IS_TIMELINE_BUILT', true);
+    },
 };
 
 const getters = {};
