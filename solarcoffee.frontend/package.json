@@ -13,7 +13,7 @@
     "axios": "^0.19.2",
     "core-js": "^3.4.4",
     "html2canvas": "^1.0.0-rc.5",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.5.1",
     "moment": "^2.24.0",
     "vue": "^2.6.10",
     "vue-apexcharts": "^1.5.2",
